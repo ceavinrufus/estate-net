@@ -1,0 +1,24 @@
+{
+  "name": "Scenic Land Plot in West Jakarta",
+  "description": "A beautiful land plot located in a developing area in West Jakarta, with great potential for investment.",
+  "image": "https://example.com/land_image.jpg",
+  "external_url": "https://example.com/land789",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Land"
+    },
+    {
+      "trait_type": "Size (sqm)",
+      "value": 1000
+    },
+    {
+      "trait_type": "Zoning",
+      "value": "Residential"
+    },
+    {
+      "trait_type": "Accessibility",
+      "value": "Main road access"
+    }
+  ]
+}

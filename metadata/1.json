@@ -1,0 +1,28 @@
+{
+  "name": "Luxurious Apartment in Jakarta City Center",
+  "description": "A stunning apartment located in the heart of Jakarta, offering breathtaking views of the city skyline.",
+  "image": "https://example.com/apartment_image.jpg",
+  "external_url": "https://example.com/apartment123",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Apartment"
+    },
+    {
+      "trait_type": "Size (sqm)",
+      "value": 150
+    },
+    {
+      "trait_type": "Bedrooms",
+      "value": 3
+    },
+    {
+      "trait_type": "Bathrooms",
+      "value": 2
+    },
+    {
+      "trait_type": "Floor",
+      "value": 20
+    }
+  ]
+}

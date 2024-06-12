@@ -1,0 +1,28 @@
+{
+  "name": "Charming House in South Jakarta",
+  "description": "A cozy house located in a peaceful neighborhood in South Jakarta, perfect for a family.",
+  "image": "https://example.com/house_image.jpg",
+  "external_url": "https://example.com/house456",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "House"
+    },
+    {
+      "trait_type": "Size (sqm)",
+      "value": 250
+    },
+    {
+      "trait_type": "Bedrooms",
+      "value": 4
+    },
+    {
+      "trait_type": "Bathrooms",
+      "value": 3
+    },
+    {
+      "trait_type": "Garage",
+      "value": true
+    }
+  ]
+}
